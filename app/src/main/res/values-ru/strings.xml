@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Здравствуй, Луна</string>
+    <string name="hellomoon_play">Старт</string>
+    <string name="hellomoon_stop">Стоп</string>
+    <string name="hellomoon_description">Нил Армстронг вступил на луну</string>
+    <string name="hellomoon_pause">Пауза</string>
+
+</resources>
